@@ -1,0 +1,59 @@
+.profile{
+    background:aqua;
+    margin: 10px 120px;
+    padding: 10px 20px;
+    font-weight: bolder;
+}
+.profileEdit{
+    background:aqua;
+    margin: 10px 120px;
+    padding: 10px 20px;
+    font-weight: bolder;
+}
+.NewsList{
+    background:aqua;
+    margin: 10px 120px;
+    padding: 10px 20px;
+    font-weight: bolder;
+    border:1px solid black;
+}
+.comment{
+    border:1px solid black;
+    padding: 20px;
+}
+.adminCon{
+    background:aqua;
+    margin: 10px 120px;
+    padding: 10px 20px;
+    font-weight: bolder;
+    border:1px solid black;
+}
+.messageList{
+    background:aqua;
+    margin: 10px 120px;
+    padding: 10px 20px;
+    font-weight: bolder;
+    border:1px solid black;
+}
+.login{
+    background:aqua;
+    margin: 10px 120px;
+    padding: 10px 20px;
+    font-weight: bolder;
+    border:1px solid black;
+}
+.registration{
+    background:aqua;
+    margin: 10px 120px;
+    padding: 10px 20px;
+    font-weight: bolder;
+    border:1px solid black;
+}
+nav{
+    background: black;
+}
+.navbar{
+    padding:200px;
+}
+
+  

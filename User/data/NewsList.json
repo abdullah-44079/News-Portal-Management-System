@@ -1,0 +1,14 @@
+[
+    {
+        "Id":"0",
+        "Title": "Dhaka",
+        "Details": "Dhaka is a popular city of bangladesh.",
+        "Date": "02/02/2023"
+    },
+    {
+        "Id":"1",
+        "Title": "Aiub",
+        "Details": "Aiub is a private universiy.",
+        "Date": "09/03/2023"
+    }
+]

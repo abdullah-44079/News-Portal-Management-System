@@ -1,0 +1,93 @@
+.container-1{
+    background:aqua;
+    margin: 10px 120px;
+    padding: 10px 20px;
+}
+
+.registerForm{
+    min-height: 40rem;
+  }
+  .container-2{
+    background:aqua;
+    margin: 0 120px;
+    padding: 0 20px;
+}
+table{
+    width: 100%;
+}
+table, th, td {
+    border:1px solid black;
+    
+}
+.list{
+    text-align: center;
+}
+
+.container-3{
+    background:aqua;
+    margin: 0 120px;
+    padding: 20px 20px;
+    
+}
+.btn{
+    color: black;
+    background: white;
+}
+.registerForm{
+    background:aqua;
+    margin: 0 120px;
+    padding: 0 100px; 
+}
+.btn-2{
+    color: black;
+    background: white;
+}
+
+.container-4{
+    background:aqua;
+    margin: 0 120px;
+    padding: 20px 20px;
+}
+.container-5{
+    background:aqua;
+    margin: 10px 120px;
+    padding: 20px 20px;
+    border: 2px solid black;
+}
+.container-6{
+    background:aqua;
+    margin: 10px 120px;
+    padding: 20px 20px;
+    border: 2px solid black;
+}
+
+.container-7{
+    background:aqua;
+    margin: 10px 120px;
+    padding: 20px 400px;
+    border: 2px solid black;
+}
+.container-8{
+    background:aqua;
+    margin: 10px 120px;
+    padding: 20px 400px;
+    border: 2px solid black;
+}
+
+.header{
+    background: black;
+}
+.headerContainer{
+    padding:20px;
+
+}
+.headbutton{
+    padding: 10px;
+    margin-left: 100px;
+}
+.container-10{
+    background:aqua;
+    margin: 10px 120px;
+    padding: 20px 400px;
+    border: 2px solid black;
+}
